@@ -54,6 +54,9 @@ Basadas en polinomios de Bernstein. La curva es definida por puntos de control: 
 Ofrecen un control local más preciso que las de Bézier. Modificar un punto de control solo afecta a un segmento de la curva, no a su totalidad.
 
 
+<img width="1896" height="1048" alt="image" src="https://github.com/user-attachments/assets/17385238-54cf-4f2d-a71a-933f237b4d23" />
+
+
 
 ## 2.4 Fractales
 Estudio de formas geométricas que poseen **autosimilitud** a diferentes escalas. Se generan mediante procesos recursivos o iterativos y son fundamentales para modelar fenómenos naturales (nubes, montañas, costas).
