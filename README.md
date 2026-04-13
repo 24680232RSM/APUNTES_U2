@@ -40,6 +40,9 @@ Distorsión de la forma del objeto en la que los puntos se desplazan proporciona
 Para optimizar el procesamiento gráfico, las transformaciones se representan mediante matrices de $3 \times 3$ utilizando **Coordenadas Homogéneas**. Esto permite que múltiples transformaciones (como rotar y luego trasladar) se combinen en una sola matriz resultante mediante la multiplicación de las mismas.
 
 
+<img width="1919" height="1011" alt="image" src="https://github.com/user-attachments/assets/f3f52a7c-6926-4285-8dbd-b54a96c8b70e" />
+
+
 
 ## 2.3 Trazo de Líneas Curvas
 Modelado matemático para generar trayectorias suaves.
