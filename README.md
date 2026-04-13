@@ -37,7 +37,7 @@ Distorsión de la forma del objeto en la que los puntos se desplazan proporciona
 
 
 ## 2.2 Representación Matricial
-Para optimizar el procesamiento gráfico, las transformaciones se representan mediante matrices de $3 \times 3$ utilizando **Coordenadas Homogéneas**. Esto permite que múltiples transformaciones (como rotar y luego trasladar) se combinen en una sola matriz resultante mediante la multiplicación de las mismas.
+Para optimizar el procesamiento gráfico, las transformaciones se representan mediante matrices de $3 \times 3$ utilizando "coordenadas homogéneas". Esto permite que múltiples transformaciones (como rotar y luego trasladar) se combinen en una sola matriz resultante mediante la multiplicación de las mismas.
 
 
 <img width="1919" height="1011" alt="image" src="https://github.com/user-attachments/assets/f3f52a7c-6926-4285-8dbd-b54a96c8b70e" />
@@ -59,7 +59,7 @@ Ofrecen un control local más preciso que las de Bézier. Modificar un punto de 
 
 
 ## 2.4 Fractales
-Estudio de formas geométricas que poseen **autosimilitud** a diferentes escalas. Se generan mediante procesos recursivos o iterativos y son fundamentales para modelar fenómenos naturales (nubes, montañas, costas).
+Estudio de formas geométricas que poseen autosimilitud a diferentes escalas. Se generan mediante procesos recursivos o iterativos y son fundamentales para modelar fenómenos naturales (nubes, montañas, costas).
 
 
 
