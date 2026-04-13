@@ -25,8 +25,8 @@ Desplazamiento de un objeto a una nueva posición mediante la suma de distancias
 
 ### 2.1.2 Escalamiento
 Alteración del tamaño de un objeto mediante factores de multiplicación. 
-- **Uniforme:** $s_x = s_y$
-- **No uniforme:** $s_x \neq s_y$
+**Uniforme:** 
+**No uniforme:** 
 
 ### 2.1.3 Rotación
 Giro de un objeto sobre un punto pivote (normalmente el origen) siguiendo un ángulo $\theta$. Utiliza las funciones trigonométricas seno y coseno.
