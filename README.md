@@ -68,8 +68,3 @@ Representación de caracteres mediante técnicas gráficas:
 - **Fuentes de Mapa de Bits:** Definidas por arreglos de píxeles.
 - **Fuentes Vectoriales:** Definidas matemáticamente (usualmente mediante curvas de Bézier), permitiendo escalabilidad infinita sin pérdida de resolución.
 
-
-
-##  Tecnologías sugeridas
-- Lenguajes: C++, Python, Java.
-- Librerías: OpenGL, SFML, Pygame, Canvas API.
