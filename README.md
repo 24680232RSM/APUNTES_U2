@@ -68,3 +68,13 @@ Representación de caracteres mediante técnicas gráficas:
 - **Fuentes de Mapa de Bits:** Definidas por arreglos de píxeles.
 - **Fuentes Vectoriales:** Definidas matemáticamente (usualmente mediante curvas de Bézier), permitiendo escalabilidad infinita sin pérdida de resolución.
 
+
+## Fuentes de Informacion
+[Graficación 2D - Notas de Clase (Blog Tecnológico)](http://fernandez-torres-jose.blogspot.com/2012/09/21-transformaciones-bidimensionales.html): Explica detalladamente traslación, rotación y composición de matrices.
+
+[Transformaciones en la Graficación (Aliat Universidades)](https://www.aliatuniversidades.com.mx/conexxion/blog/conexxion/index.php/transformaciones-en-la-graficacion-por-computadora-ano-1-numero-1): Un artículo técnico que incluso incluye ejemplos de cómo pasar estas fórmulas a código (Java).
+
+[Conceptos de Sesgado y Escalamiento](http://javiergarcialara.blogspot.com/2017/03/conceptos-de-graficacion-en-2d.html): Ideal para entender la diferencia visual entre un sesgo horizontal y uno vertical.
+
+
+
