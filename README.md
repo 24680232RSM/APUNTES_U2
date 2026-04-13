@@ -4,14 +4,14 @@
 
 ##  Índice
 * [2.1 Transformaciones Bidimensionales](#21-transformaciones-bidimensionales)
-    * [Traslación](#211-traslación)
-    * [Escalamiento](#212-escalamiento)
-    * [Rotación](#213-rotación)
-    * [Sesgado (Shear)](#214-sesgado)
+    * [2.1.1 Traslación](#211-traslación)
+    * [2.1.2 Escalamiento](#212-escalamiento)
+    * [2.1.3 Rotación](#213-rotación)
+    * [2.1.4 Sesgado (Shear)](#214-sesgado)
 * [2.2 Representación Matricial](#22-representación-matricial)
 * [2.3 Trazo de Líneas Curvas](#23-trazo-de-líneas-curvas)
-    * [Curvas de Bézier](#231-bézier)
-    * [B-splines](#232-b-spline)
+    * [2.3.1 Curvas de Bézier](#231-bézier)
+    * [2.3.2 B-splines](#232-b-spline)
 * [2.4 Fractales](#24-fractales)
 * [2.5 Fuentes de Texto](#25-uso-y-creación-de-fuentes-de-texto)
 
