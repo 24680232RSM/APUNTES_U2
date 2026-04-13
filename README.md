@@ -1,8 +1,8 @@
-# Graficación: Unidad 2 - Transformaciones y Geometría 2D
+# Graficación: Unidad 2 - Graficacion 2D
 
-Este repositorio contiene los fundamentos teóricos y prácticos sobre la manipulación de objetos bidimensionales, algoritmos de trazado de curvas y generación de estructuras complejas.
 
-## 📋 Índice
+
+##  Índice
 * [2.1 Transformaciones Bidimensionales](#21-transformaciones-bidimensionales)
     * [Traslación](#211-traslación)
     * [Escalamiento](#212-escalamiento)
